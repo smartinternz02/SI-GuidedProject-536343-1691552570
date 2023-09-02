@@ -13,3 +13,21 @@ The outcomes of this project will provide valuable insights for educational inst
 and accessibility of online education. This analysis of the online education system aims to contribute to the ongoing dialogue on the future of education 
 and help shape a more inclusive, engaging, and effective learning environment in the digital age. 
 
+
+9/2/2023 | 1:23 AM
+Connected to ONLINE EDUCATION SYSTEM REVIEW.csv
+@Cognos
+
+For ONLINE EDUCATION SYSTEM REVIEW.csv, here is a list of relevant fields and some basic information about them:
+
+Fields	Concepts
+Internet facility in your locality	Categorical, HasOutlier, Nominal, PositiveValue, MonthRange, DayOfWeekRange, Measure
+Performance in online	Categorical, HasOutlier, MonthRange, Nominal, PositiveValue, Measure, DayOfMonthRange
+Age(Years)	Categorical, HasOutlier, Nominal, PositiveValue, Duration, Age, People
+Number of Subjects	Categorical, HasOutlier, Nominal, PositiveValue, Quantity, DayOfMonthRange
+Time spent on social media (Hours)	Categorical, HasOutlier, MonthRange, Nominal, PositiveValue, Expense, DayOfMonthRange, Hour
+Average marks scored before pandemic in traditional classroom	Categorical, Nominal, Entity, Identifier, Scoring
+Clearing doubts with faculties in online mode	Categorical, Nominal, PositiveValue, MonthRange, DayOfWeekRange, Measure
+Your interaction in online mode	Categorical, Nominal, PositiveValue, MonthRange, DayOfWeekRange, Measure
+Economic status	Categorical, Nominal, Status, Entity, Identifier
+Your level of satisfaction in Online Education	Categorical, Nominal, Identifier, Education, Satisfaction
